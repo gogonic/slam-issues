@@ -7,7 +7,7 @@
 
 ## Getting Your Hands Dirty
 
-* [Hardware Used](introduction/hardware-used.md)
+* [Hardware](introduction/hardware-used.md)
 * [Camera Calibration](introduction/camera-calibration.md)
 * [Evaluation Techniques](introduction/evaluation-techniques.md)
 
@@ -17,15 +17,16 @@
 * [VINS Mono](slam-frameworks/vins-mono.md)
 * [Fiducial SLAM Frameworks](slam-frameworks/fiducial-slam-frameworks.md)
 
-## Challenge-Specific Experiments
+## Challenge 3
 
 * [Challenges with Challenge 3](challenge-3/challenges-with-challenge-3.md)
+* [Untitled](challenge-3/untitled.md)
 
 ## Deep learning approaches
 
-## Frequently Asked Questions
-
 ## Camera Calibration
+
+* [Untitled](camera-calibration/untitled.md)
 
 ## Useful Links
 

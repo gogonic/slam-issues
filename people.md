@@ -11,7 +11,7 @@ The TCS-IISc collaboration for MBZIRC 2020 is currently divided into six teams.
 5. Team Vision & Machine Learning
 6. Team TCS
 
-While the Vision & Machine Learning team is distributed between RBCCPS and Aerospace Department \(Aero\)., the other teams \(with the exception of TCS\) is located entirely in Aero.
+While the Vision & Machine Learning team is distributed between RBCCPS and the Aerospace Department \(Aero\), all other teams \(with the exception of TCS\) currently work out of Aero.
 
 So far, SLAM-related aspects of the challenge has been solely the concern of the Vision & Machine Learning team. While other teams might get involved in the later stages of integration, the primary "sister" teams for SLAM until now have been Team TCS and Team Guidance, Navigation & Control.
 
