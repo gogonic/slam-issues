@@ -8,9 +8,19 @@ The majority of the experiments were conducted with ZED Mini by Stereolabs, whic
 
 The appeal of using real robots \(both UGVs and UAVs\) for experiments is twofold. The first and obvious one is that they are the intended platforms that the final system will run on and will provide a more realistic setting for our experiments. Second, certain classes of robots such as UGVs offer an easy way to obtain the \(rough\) ground truth for the trajectory. For example, the Turtlebot uses wheel encoders to output the robot's current pose from its starting point as a reference, which is quite good in the absence of wheel slippage.
 
+**NOTE: All robots mentioned below are subject to availability, and might require scheduling slots in advance to prevent conflicts with other people who might be using it.**
+
 ### Turtlebot
 
+A Turtlebot 3 is available at RBCCPS. 
 
+### Parrot Bebop
+
+A few Parrot Bebop drones are available at RBCCPS. These are easy-to-control drones that can be flown with the help of a mobile app. However, without hardware modification, you are limited to using Bebop's built-in camera. There are other limitations such as the inability to access raw sensor values directly due to its proprietary nature.
+
+### Larger drones
+
+Larger drones such as the DJI Matrice need coordination with Aero for flights. You may contact [Varun](https://slam-rbccps.gitbook.io/slam/people#handy-contacts) to set up a slot for any flights.
 
 ### Logistical issues
 
